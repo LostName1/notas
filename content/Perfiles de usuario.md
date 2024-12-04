@@ -1,3 +1,10 @@
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+
 # **Propuesta para la Creación de 5 Perfiles en GrapheneOS**
 
 El objetivo es establecer un entorno digital seguro y eficiente mediante la creación de cuatro perfiles en GrapheneOS, cada uno diseñado para un propósito específico, garantizando la privacidad y la separación de actividades.
